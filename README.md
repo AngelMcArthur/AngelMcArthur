@@ -5,7 +5,7 @@
 - <b>🐧 Linux Project</b>
   - [Setting up Linux in VirtualBox](https://github.com/AngelMcArthur/Linux-Project)
 - <b>📝 Project Management Project</b>
-  - [Set up Project Management Software - Clickup](https://github.com/AngelMcArthur/LabURL)
+  - [Set up Project Management Software - Clickup](https://github.com/AngelMcArthur/ClickUp-Project-Management-Project)
 - <b>🦾 Harden Linux (Cybersecurity/Pentest)</b>
   - [Ubuntu Hardening](https://github.com/AngelMcArthur/LabURL)
 - <b>🛜 Network Monitoring/SIEM Build (Networking Project)</b>
