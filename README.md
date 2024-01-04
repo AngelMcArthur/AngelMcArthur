@@ -3,7 +3,7 @@
 <h2>My Projects:</h2>
 
 - <b>🐧 Linux Project</b>
-  - [Setting up Linux in VirtualBox](https://github.com/AngelMcArthur/LabURL)
+  - [Setting up Linux in VirtualBox](https://github.com/AngelMcArthur/Linux-Project)
 - <b>📝 Project Management Project</b>
   - [Set up Project Management Software - Clickup](https://github.com/AngelMcArthur/LabURL)
 - <b>🦾 Harden Linux (Cybersecurity/Pentest)</b>
