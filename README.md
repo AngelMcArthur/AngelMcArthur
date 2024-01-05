@@ -7,7 +7,7 @@
 - <b>📝 Project Management Project</b>
   - [Set up Project Management Software - Clickup](https://github.com/AngelMcArthur/ClickUp-Project-Management-Project)
 - <b>🦾 Harden Linux (Cybersecurity/Pentest)</b>
-  - [Ubuntu Hardening](https://github.com/AngelMcArthur/LabURL)
+  - [Ubuntu Hardening](https://github.com/AngelMcArthur/Linux-Hardening-Project)
 - <b>🛜 Network Monitoring/SIEM Build (Networking Project)</b>
   - [Network Monitoring with Wazuh and Suricata](https://github.com/AngelMcArthur/LabURL)
 - <b>🖥️ IT/DevOps Project</b>
