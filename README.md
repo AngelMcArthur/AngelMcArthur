@@ -9,7 +9,7 @@
 - <b>🦾 Harden Linux (Cybersecurity/Pentest)</b>
   - [Ubuntu Hardening](https://github.com/AngelMcArthur/Linux-Hardening-Project)
 - <b>🛜 Network Monitoring/SIEM Build (Networking Project)</b>
-  - [Network Monitoring with Wazuh and Suricata](https://github.com/AngelMcArthur/LabURL)
+  - [Network Monitoring with Wazuh and Suricata](https://github.com/AngelMcArthur/Networking-Project)
 - <b>🖥️ IT/DevOps Project</b>
   - [Install Docker Desktop in Ubuntu Linux](https://github.com/AngelMcArthur/LabURL)
 
