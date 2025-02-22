@@ -17,9 +17,9 @@
 
 <h2>🏆Certifications</h2>
 
+- <b>CompTIA Security+</b>
 - <b>Google Cybersecurity Certification</b>
 - <b>Google Cloud Digital Leader Certification</b>
-- <b>CompTIA A+, Network+, Security+ (In Progress)</b>
 - <b>...and 7 more listed on my [LinkedIn](https://linkedin.com/in/angel-mcarthur-health)
 
 <!---------------------------------------------------------------------- SECTION BREAK ---------------------------------------------------------------------->
