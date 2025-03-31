@@ -20,18 +20,7 @@
 - <b>CompTIA Security+</b>
 - <b>Google Cybersecurity Certification</b>
 - <b>Google Cloud Digital Leader Certification</b>
-- <b>...and 7 more listed on my [LinkedIn](https://linkedin.com/in/angel-mcarthur-health)
-
-<!---------------------------------------------------------------------- SECTION BREAK ---------------------------------------------------------------------->
-
-<h2> ⚒️ What I'm working on</h2>
-
-- <b>📊 Data Analysis Project</b>
-  - [Create a Database in MySQL, PostgreSQL, & Microsoft SQL Server](https://github.com/AngelMcArthur/Data-Analysis-Project)
-- <b>☁️ Cloud Project</b>
-  - [Move On-Prem Database to the Cloud](https://github.com/AngelMcArthur/Cloud-Project)
-- <b>🤖 AI/ML Project</b>
-  - [Analyze a Database with AI/Machine Learning](https://github.com/AngelMcArthur/AI-ML-Project)
+- <b>...and more listed on my [LinkedIn](https://linkedin.com/in/angel-mcarthur-health)
 
 <!---------------------------------------------------------------------- SECTION BREAK ---------------------------------------------------------------------->
 
