@@ -4,7 +4,7 @@
 
 ### About Me
 
-I'm a Security+ certified cybersecurity analyst with a B.S. in IT Management and a strong focus on SIEM, cloud security, threat detection, and forensics. I build hands-on lab environments to simulate attacks, detect threats, and automate defensive workflows. Currently ranking in the top 10% on TryHackMe, I'm committed to continuous learning and operational readiness.
+I'm a Security+ certified cybersecurity analyst with a B.S. in IT Management and a strong focus on SIEM, cloud security, threat detection, and forensics. I build hands-on lab environments to simulate attacks, detect threats, and automate defensive workflows. I'm committed to continuous learning and operational readiness.
 
 <!---------------------------------------------------------------------- SECTION BREAK ---------------------------------------------------------------------->
 
